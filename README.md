@@ -1,7 +1,7 @@
 # Nahyeon Kim  
 안녕하세요! 저는 **인하대학교 데이터사이언스학과**에 재학 중이며, **AI Researcher 및 Engineer**를 목표로 하고 있습니다. 주요 관심 분야는 **설명 가능한 AI(XAI), 추천시스템**입니다.  
 
-📄 **[This is my CV 📥](link)** 
+📄 **[This is my CV 📥](link)**    
 [tistory](https://itdatascience.tistory.com/)
 
 📫  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=gmail&logoColor=white)](mailto:na02string@gmail.com)  <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=round-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%82%98%ED%98%84-%EA%B9%80-228b3031a/)-->  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=round-square&logo=github&logoColor=white)](https://github.com/na02string)  <!--[![Tistory Blog](https://img.shields.io/badge/Tistory-000000?style=round-square&logo=tistory&logoColor=white)](https://itdatascience.tistory.com/)  -->
