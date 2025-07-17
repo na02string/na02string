@@ -15,7 +15,7 @@
   - GPA: **4.21 / 4.5**
     
 ### 💼 **Internship & Research**  
-- **AI Research Intern**, Center for Artificial Intellignece in Healthcare, SNUBH `2024.12 ~ 2025.03`(4개월)
+- **AI Research Intern**, Center for Artificial Intellignece in Healthcare, SNUBH `2024.12 ~ 2025.03`(3개월)
 - **Undergraduate Researcher**, Knowledge-based Data Discovery Lab , Inha University `2024.07 ~ Present`
 - **Undergraduate Researcher**, Human-Computer Interaction Lab, Inha University `2023.06 ~ 2023.08`(3개월)
 
