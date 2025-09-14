@@ -10,9 +10,9 @@
 
 ## 🔭 About Me 
 ### 🎓 **Education**  
-- **B.S. in Data Science,  OO University** `2021.03 ~ 2025.08(졸업예정)`
+- **B.S. in Data Science,  OO University** `2021.03 ~ 2026.02(졸업예정)`
   - Minor in **Statistics**
-  - GPA: **4.21 / 4.5**
+  - GPA: **4.22 / 4.5**
     
 ### 💼 **Internship & Research**  
 - **AI Research Intern**, Center for Artificial Intellignece in Healthcare, ☐☐UBH `2024.12 ~ 2025.03`(3개월)
