@@ -1,5 +1,5 @@
 # Nahyeon Kim  
-안녕하세요! 저는 ** OO대학교 데이터사이언스학과**에 재학 중이며, **AI Researcher 및 Engineer**를 목표로 하고 있습니다. 주요 관심 분야는 **설명 가능한 AI(XAI), 추천시스템**입니다.  
+안녕하세요! 저는 **OO대학교 데이터사이언스학과**에 재학 중이며, **AI Researcher 및 Engineer**를 목표로 하고 있습니다. 주요 관심 분야는 **설명 가능한 AI(XAI), 추천시스템**입니다.  
 
 <!--📄 **[This is my CV 📥](link)**    
 [tistory](https://itdatascience.tistory.com/)-->
