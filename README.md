@@ -10,14 +10,14 @@
 
 ## 🔭 About Me 
 ### 🎓 **Education**  
-- **B.S. in Data Science, Inha University** `2021.03 ~ 2025.08(졸업예정)`
+- **B.S. in Data Science,  OO University** `2021.03 ~ 2025.08(졸업예정)`
   - Minor in **Statistics**
   - GPA: **4.21 / 4.5**
     
 ### 💼 **Internship & Research**  
-- **AI Research Intern**, Center for Artificial Intellignece in Healthcare, SNUBH `2024.12 ~ 2025.03`(3개월)
-- **Undergraduate Researcher**, Knowledge-based Data Discovery Lab , Inha University `2024.07 ~ Present`
-- **Undergraduate Researcher**, Human-Computer Interaction Lab, Inha University `2023.06 ~ 2023.08`(3개월)
+- **AI Research Intern**, Center for Artificial Intellignece in Healthcare, ☐☐UBH `2024.12 ~ 2025.03`(3개월)
+- **Undergraduate Researcher**, Knowledge-based Data Discovery Lab , OO University `2024.07 ~ Present`
+- **Undergraduate Researcher**, Human-Computer Interaction Lab, OO University `2023.06 ~ 2023.08`(3개월)
 
 ### 😄 **Interests**  
 - Machine Learning & Deep Learning    
